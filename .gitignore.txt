@@ -1,1 +1,1 @@
-test_review/__pycache__
+/test_review/__pycache__
